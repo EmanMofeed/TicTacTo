@@ -1,0 +1,13 @@
+#fancytext {
+    -fx-font: 100px Tahoma;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, #ccffcc 0%, #1aff1a 50%);
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+
+#fancytext1 {
+    -fx-font: 30px Tahoma;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, #ccffcc 0%, #1aff1a 50%);
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
